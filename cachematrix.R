@@ -1,7 +1,6 @@
 ## This assignment is to write a pair of functions that cache the inverse 
 ## of a matrix.
 
-ca
 ## This function creates a special "matrix" object that can cache its inverse.
 
 makeCacheMatrix <- function(x = matrix()) {
